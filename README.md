@@ -1,5 +1,5 @@
 # javascripting
-node.js java scripting workshop
+nodeschool java scripting workshop
 This is complete workshop solution for the node school java scripting workshop.
 
 In case you are facing issue to install in win10 please follow the below link for solution(source:https://github.com/nodeschool/discussions/issues/1476):
